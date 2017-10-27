@@ -1,4 +1,5 @@
 # Accept No. of Nodes and edges
+import numpy as np
 n, m = map(int, raw_input().split(" "))
 
 # Initialising Dictionary of edges
